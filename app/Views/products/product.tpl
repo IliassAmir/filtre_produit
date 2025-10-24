@@ -27,4 +27,7 @@
     <p>Aucun produit trouvé</p>
 {/if}
 
+<p class="text-center text-muted">© 2025 - Version principale</p>
+
+
 {/block}
