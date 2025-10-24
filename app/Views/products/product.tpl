@@ -28,5 +28,7 @@
 {/if}
 
 <p class="text-center text-muted">© 2025 - Mon Filtre</p>
+<p class="text-center text-muted">© 2025 - Mon Filtre Produit - Modif Test</p>
+
 
 {/block}
