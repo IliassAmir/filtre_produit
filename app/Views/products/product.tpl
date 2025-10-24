@@ -27,6 +27,6 @@
     <p>Aucun produit trouvé</p>
 {/if}
 
-<p class="text-center text-muted">© 2025 - Mon Filtre Produit</p>
+<p class="text-center text-muted">© 2025 - Mon Filtre</p>
 
 {/block}
